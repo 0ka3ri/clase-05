@@ -46,9 +46,6 @@ span {
     margin-left: 20px;
     }
 
-<<<<<<< HEAD
-#nav-secciones {
-=======
 #contenedor-hamburguesa {
     width: 20%;
     max-width: 70px;
@@ -56,7 +53,6 @@ span {
 }    
 
 #nav-ul {
->>>>>>> 0c7b8c6 (Mejoras en diseño responsive)
     margin: 0px;
     padding:0px;
     cursor: pointer;
@@ -243,10 +239,6 @@ h4 {
     }
 
 
-<<<<<<< HEAD
- /* Breakpoint de tablet */
-@media (max-width: 768px){
-=======
 /*Breakpoint de desktop */
 @media (min-width: 769px) {
     #contenedor-hamburguesa {
@@ -265,99 +257,23 @@ h4 {
     #nav-ul {
         display: none;
     }
->>>>>>> 0c7b8c6 (Mejoras en diseño responsive)
     h1, h2 {
         font-size: 35px;
     }
     button {
-<<<<<<< HEAD
-        width: 200px;
-        height: 70px;
-=======
         width: 150px;
         height: 60px;
->>>>>>> 0c7b8c6 (Mejoras en diseño responsive)
         font-size: 25px;
     }
     #contenedor-paneles {
         flex-direction: column;
         align-items: center;
     }
-<<<<<<< HEAD
-}
-=======
 }        
->>>>>>> 0c7b8c6 (Mejoras en diseño responsive)
 
 /* Breakpoint de mobile grande */
 @media (max-width: 450px){
     body{
-<<<<<<< HEAD
-       padding-top: 1px;
-    }
-    h1 { 
-       width: 30%;    
-       font-size: 30px;
-    }
-    h2 { 
-       width: 30%;
-       font-size: 28px;
-    }
-    button {
-       width: 150px;
-       height: 50px;
-       font-size: 25px;
-    }       
-    #contenedortítulobotones {
-       margin-top: 4%;
-       display: block;
-       width: 50%;
-       margin-left: 11%;        
-    }
-    #contenedor-paneles {
-       flex-direction: column;
-       align-items: center;
-    }
-    footer {
-       padding: 10%; 
-    }
-    h4  { 
-       font-size: 14px;
-    }
-    p {
-       font-size: 11px;
-       line-height: 0px;
-       letter-spacing: 0px;
-    }   
-    header {
-       position: static;
-       margin-top: 3px;
-       width: 77%;
-       margin-left: 11%;
-    }
-    nav {
-       display: block;
-    }
-    #logo {
-       justify-content: center;
-       font-size: 85%;
-    }
-    a{
-       font-size: 300%;
-    }
-    #nav-secciones {
-       justify-content: center;
-    }
-    .nav-lista {
-       font-size: 80%;
-       margin: 4%;
-    }    
-}
-
-
-
-Falta iconitos -footer-
-=======
         padding-top: 1px;
     }
     header {
@@ -425,4 +341,3 @@ Falta iconitos -footer-
 }    
 
 
->>>>>>> 0c7b8c6 (Mejoras en diseño responsive)
